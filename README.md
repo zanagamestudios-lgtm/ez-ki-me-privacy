@@ -1,7 +1,5 @@
 # Ez Kî Me? — Siyaseta nihênîyê
 
-GitHub Pages: https://zanagamestudios-lgtm.github.io/ez-ki-me-privacy/
+Trilingual privacy policy (KRD / TR / EN).
 
-Languages: **KRD** · **TR** · **EN**
-
-Zana Game Studios · zanagamestudios@gmail.com
+**Site:** https://zanagamestudios-lgtm.github.io/ez-ki-me-privacy/
